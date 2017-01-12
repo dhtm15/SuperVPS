@@ -1,2 +1,1 @@
 # SuperVPS
-SuperVPS Pack
